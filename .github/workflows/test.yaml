@@ -18,5 +18,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
-    - run: npm run build
-    - run: edgio dev
+    - run: npm run edgio:build
+    - run: npm run edgio:dev
