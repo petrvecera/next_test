@@ -17,12 +17,12 @@
     "react-dom": "^18"
   },
   "devDependencies": {
-    "@edgio/cli": "7.12.3-next-1719486436-0966fa26.0",
-    "@edgio/core": "7.12.3-next-1719486436-0966fa26.0",
-    "@edgio/devtools": "7.12.3-next-1719486436-0966fa26.0",
-    "@edgio/next": "7.12.3-next-1719486436-0966fa26.0",
-    "@edgio/prefetch": "7.12.3-next-1719486436-0966fa26.0",
-    "@edgio/react": "7.12.3-next-1719486436-0966fa26.0",
+    "@edgio/cli": "7.12.10",
+    "@edgio/core": "7.12.10",
+    "@edgio/devtools": "7.12.10",
+    "@edgio/next": "7.12.10",
+    "@edgio/prefetch": "7.12.10",
+    "@edgio/react": "7.12.10",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
